@@ -1,4 +1,3 @@
-
 线上产品: http://m.himygirl.cn
 
 在线demo示例: http://demo.himygirl.cn
@@ -52,19 +51,12 @@ who am i ? : http://mygirl.cn
     }
 ```
 
-# 4.命令执行：
 
-      npm install //安装依赖
-      npm run dev //开发环境运行
-      
-      npm run build //打包
-      npm run build:docker //创建docker镜像
-      npm run build:start //创建docker容器并启动# hg_b_web
 
-# 5.唠唠嗑🐧🐧🐧
+# 唠唠嗑🐧🐧🐧
 
  <image src="static/img/qq_chat.jpeg" width="200px" height="250px"></image>
 
-# 6.下午茶🍵,走一波
+# 下午茶🍵,走一波
 
  <image src="static/img/wx_pay.jpeg" width="200px" height="200px"></image>
