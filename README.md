@@ -1,4 +1,9 @@
 
+线上产品: http://m.himygirl.cn
+
+在线demo示例: http://demo.himygirl.cn
+
+who am i ? : http://mygirl.cn
 # 1.Dockerfile
 
 ``` python
@@ -58,8 +63,8 @@
 
 # 5.唠唠嗑🐧🐧🐧
 
- <image src="statis/img/qq_chat.jpeg" width="100%" height="400px"></image>
+ <image src="static/img/qq_chat.jpeg" width="200px" height="250px"></image>
 
 # 6.下午茶🍵,走一波
 
- <image src="statis/img/wx_pay.jpeg" width="100%" height="400px"></image>
+ <image src="static/img/wx_pay.jpeg" width="200px" height="200px"></image>
