@@ -36,7 +36,7 @@
            <bm-geolocation anchor="BMAP_ANCHOR_BOTTOM_RIGHT" :showlocaltionBar="true" :autoLocation="true"></bm-geolocation>
            <bm-panorama></bm-panorama>
            <bm-marker :position="{lng: 116.404, lat: 39.915}" :dragging="true" animation="BMAP_ANIMATION_BOUNCE">
-              <bm-label content="hi,I'm fuhw/vencano" :labelStyle="{color: 'red', fontSize : '14px'}" :offset="{width: -35, height: 30}"/>
+              <bm-label content="hi,I'm fuhw/DeanKano" :labelStyle="{color: 'red', fontSize : '14px'}" :offset="{width: -35, height: 30}"/>
           </bm-marker>
           <bm-view class="bm-view"></bm-view>
          </baidu-map>

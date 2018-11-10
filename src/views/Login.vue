@@ -28,8 +28,8 @@ export default {
         return {
             isLoading:false,
             ruleForm: {
-                username: '@vencano',
-                password: '@vencano',
+                username: '@DeanKano',
+                password: '@DeanKano',
                 isAutoLogin: false
             },
             rules: {
@@ -62,8 +62,8 @@ export default {
                         this.$store.dispatch('doLogin',
                         {
                             "id":"2c948082619333da0161933438ff0001",
-                            "username":"@vencano",
-                            "name":"@vencano"
+                            "username":"@DeanKano",
+                            "name":"@DeanKano"
                         })
                         this.$router.push('/readme');
                         this.$message.success('欢迎登录mygirl系统');
